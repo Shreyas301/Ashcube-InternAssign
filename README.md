@@ -1,3 +1,10 @@
+# Steps to open the website:
+> Download all the files from github (zip file).
+> Then save the zip file, extract it.
+> Run the index.html file.
+
+
+
 # Ashcube-InternAssign
 
  It is an informational website of company that sells Home appliances. It has following pages
